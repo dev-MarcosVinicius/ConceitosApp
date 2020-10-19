@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Argamassa AC II",
+    "image": "http://www.duraplik.com.br/wp-content/uploads/2016/12/acii.jpg",
+    "aplicacao": "Ambientes Externos",
+    "resistencia": "Resistente a Água",
+    "secagem": "Secagem Rápida"
+  },
+  {
+    "id": 2,
+    "name": "Argamassa AC III",
+    "image": "http://www.duraplik.com.br/wp-content/uploads/2016/12/aciii.jpg",
+    "aplicacao": "Ambientes Externos",
+    "resistencia": "Resistente a Água",
+    "secagem": "Secagem Rápida"
+  },
+  {
+    "id": 3,
+    "name": "Argamassa AC III-E",
+    "image": "http://www.duraplik.com.br/wp-content/uploads/2016/12/aciiie.jpg",
+    "aplicacao": "Ambientes Externos",
+    "resistencia": "Resistente a Água",
+    "secagem": "Secagem Rápida"
+  },
+  {
+    "id": 4,
+    "name": "Argamassa Bicomponente",
+    "image": "http://www.duraplik.com.br/wp-content/uploads/2016/12/bicomp.jpg",
+    "aplicacao": "Ambientes Externos",
+    "resistencia": "Resistente a Água",
+    "secagem": "Secagem Rápida"
+  },
+  {
+    "id": 5,
+    "name": "Cimento Comum",
+    "image": "http://www.duraplik.com.br/wp-content/uploads/2016/12/cimento-1.jpg",
+    "aplicacao": "Ambientes Externos",
+    "resistencia": "Resistente a Água",
+    "secagem": "Secagem Rápida"
+  },
+  {
+    "id": 6,
+    "name": "Cimento Branco",
+    "image": "http://www.duraplik.com.br/wp-content/uploads/2016/12/cimento-1.jpg",
+    "aplicacao": "Ambientes Externos",
+    "resistencia": "Resistente a Água",
+    "secagem": "Secagem Rápida"
+  },
+  {
+    "id": 7,
+    "name": "Gesso Pronto Duraplik",
+    "image": "http://www.duraplik.com.br/wp-content/uploads/2016/12/gesso-1.jpg",
+    "aplicacao": "Ambientes Externos",
+    "resistencia": "Resistente a Água",
+    "secagem": "Secagem Rápida"
+  },
+  {
+    "id": 8,
+    "name": "Massa Pronta Contra Piso",
+    "image": "http://www.duraplik.com.br/wp-content/uploads/2016/12/massa-1.jpg",
+    "aplicacao": "Ambientes Externos",
+    "resistencia": "Resistente a Água",
+    "secagem": "Secagem Rápida"
+  },
+  {
+    "id": 9,
+    "name": "Massa Pronta Chapisco",
+    "image": "http://www.duraplik.com.br/wp-content/uploads/2016/12/massa-1.jpg",
+    "aplicacao": "Ambientes Externos",
+    "resistencia": "Resistente a Água",
+    "secagem": "Secagem Rápida"
+  },
+  {
+    "id": 10,
+    "name": "Massa Pronta Graute",
+    "image": "http://www.duraplik.com.br/wp-content/uploads/2016/12/massa-1.jpg",
+    "aplicacao": "Ambientes Externos",
+    "resistencia": "Resistente a Água",
+    "secagem": "Secagem Rápida"
+  },
+  {
+    "id": 11,
+    "name": "Massa Pronta Reboco Pronto",
+    "image": "http://www.duraplik.com.br/wp-content/uploads/2016/12/massa-1.jpg",
+    "aplicacao": "Ambientes Externos",
+    "resistencia": "Resistente a Água",
+    "secagem": "Secagem Rápida"
+  },
+  {
+    "id": 12,
+    "name": "Limpeza Pesada",
+    "image": "http://www.duraplik.com.br/wp-content/uploads/2016/12/pesada.jpg",
+    "aplicacao": "Ambientes Externos",
+    "resistencia": "Resistente a Água",
+    "secagem": "Secagem Rápida"
+  },
+  {
+    "id": 13,
+    "name": "Protetor Acrílico",
+    "image": "http://www.duraplik.com.br/wp-content/uploads/2016/12/protacrilico.jpg",
+    "aplicacao": "Ambientes Externos",
+    "resistencia": "Resistente a Água",
+    "secagem": "Secagem Rápida"
+  },
+  {
+    "id": 14,
+    "name": "Rejunte Bicomponente (A+B)",
+    "image": "http://www.duraplik.com.br/wp-content/uploads/2016/12/bicomp.jpg",
+    "aplicacao": "Ambientes Externos",
+    "resistencia": "Resistente a Água",
+    "secagem": "Secagem Rápida"
+  },
+  {
+    "id": 15,
+    "name": "Rejunte Fléxivel",
+    "image": "http://www.duraplik.com.br/wp-content/uploads/2016/12/rejunte-1.jpg",
+    "aplicacao": "Ambientes Externos",
+    "resistencia": "Resistente a Água",
+    "secagem": "Secagem Rápida"
+  }
+]
